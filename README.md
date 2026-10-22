@@ -27,11 +27,6 @@ I build modern, scalable web applications that help businesses automate operatio
   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 </p>
 
-### 📈 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=immualifin&show_icons=true&theme=radical&hide_border=true" alt="Ibnu's GitHub Stats" />
-</p>
-
 ### 📫 Let's Connect
 Looking for a technical partner to build your next SaaS or integrate AI into your workflow? 
 - 💼 View my [Upwork Profile](https://www.upwork.com/freelancers/~0145d22c5aa7454e2f)
